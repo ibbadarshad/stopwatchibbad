@@ -1,0 +1,37 @@
+body{
+    background-image: url(bgimage.jpeg);
+    background-position: center;
+    margin-top: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    /* text-align: center;
+    align-items: center; */
+}
+h2{
+    display: inline-block;
+    margin-left: 60px;
+    color: darkgray;
+    font-size: 6em;
+
+}
+.time{
+    position: absolute;
+    margin-left: 530px;
+    margin-top: -350px;
+
+}
+.buttons{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -120px;
+}
+.buttons button{
+    font-size: 2em;
+    background-color:darkgray;
+    border: none;
+    outline: none;
+    border-radius: 70px;
+    margin-left: 10px;
+    padding: 20px 50px;
+
+}
